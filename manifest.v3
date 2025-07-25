@@ -11,13 +11,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">6</value>
+  <value name="build">7</value>
   <null name="description"/>
   <value name="created_date">25-07-2025 12:15:08 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-07-25T12:18:03.865115058Z</value>
+  <value name="lastUpdated">2025-07-25T12:21:10.391198671Z</value>
   <value name="wmProjectId">fldf08c0f17e6f021a818c88</value>
   <value name="creator">siqa auto</value>
 </Values>

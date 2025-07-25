@@ -16,6 +16,14 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2061
+- serviceName: project.siqagitawspp2507.integrations:refdataTest
+  packages:
+  - name: SiqagitAWSPP2507Project
+    version: "1.0"
+- serviceName: project.siqagitawspp2507.referencedata:refdata
+  packages:
+  - name: SiqagitAWSPP2507Project
+    version: "1.0"
 configurationVariables:
   jdbc.jdbcTestPool.waitingThread: "0"
   jdbc.jdbcTestPool.minConns: "0"
