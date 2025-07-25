@@ -8,6 +8,14 @@ packages:
   gitUsername: Rajni25Aug
   gitBranch: main
 services:
+- serviceName: project.siqagitawspp2507.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.operations.actions:DBInsert
+  packages:
+  - name: SiqagitAWSPP2507Project
+    version: "1.0"
+- serviceName: project.siqagitawspp2507.integrations:SIQAAdapterFlow
+  packages:
+  - name: SiqagitAWSPP2507Project
+    version: "1.0"
 - serviceName: project.siqagitawspp2507.integrations:gitsync
   packages:
   - name: SiqagitAWSPP2507Project
